@@ -153,14 +153,54 @@ namespace ch03_02
             //            5
             //5
 
-            string txt1 = "C#";
-            string txt2 = txt1;
+            //string txt1 = "C#";
+            //string txt2 = txt1;
+
+
+            //bool result; // 변수 result에는 false 값이 들어있다.
+            //int n; // 변수 n에는 0 값이 들어 있다. 
+            //string text; // 변수 text에는 null;값이 들어있다.
+
+
+            //const bool result = false;
+            //const int n = 5; 
+            //const string text = "hello";
+
+            //result = true; // 컴파일 오류 발생, const 상수값은 바꿀 수 없다.
+
+            //int n = Math.Max(0, 5); //프로그램을 실행할 때 n 값이 결정된다. 변수 n 에는 5가 대입  
+
+            //const int maxN = Math.Max(0, 5); // math.MAX 메서드가 실행된 이후에야 값이 결정되고, 컴파일러가 미리 그 값을 결정할 수 없으므로 오류가 발생 
+
+            //const int n = 5 * 100 / 2; // 이러한 단순 수식은 컴파일러가 값을 계산할 수 있다. 
 
 
 
+            //int n = 5;
+            //int divider = 3;
+            //int mod = n % divider;
+            //Console.WriteLine(mod);
+            //2
 
+            //int n = 500;
+            //Console.WriteLine("n = " +n); n = 500
 
+            //int[] product = new int[5];
 
+            //string[] names = new string[1000];
+
+            //product[0] = 100;
+            //product[1] = 200;
+
+            //int book = product[0];
+
+            //int sum = product[0] + product[1];
+
+            //int[] products = new int[5] { 1, 2, 3, 4, 5 }; // 배열의 요소 개수를 지정
+
+            //int[] products = new int[] { 1, 2, 3, 4, 5 }; // 배열의 요소 개수를 미지정
+
+                
 
 
 
