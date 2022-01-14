@@ -1,0 +1,15 @@
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\bin\Debug\net5.0\ch02_01.exe
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\bin\Debug\net5.0\ch02_01.deps.json
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\bin\Debug\net5.0\ch02_01.runtimeconfig.json
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\bin\Debug\net5.0\ch02_01.runtimeconfig.dev.json
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\bin\Debug\net5.0\ch02_01.dll
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\bin\Debug\net5.0\ref\ch02_01.dll
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\bin\Debug\net5.0\ch02_01.pdb
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\obj\Debug\net5.0\ch02_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\obj\Debug\net5.0\ch02_01.AssemblyInfoInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\obj\Debug\net5.0\ch02_01.AssemblyInfo.cs
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\obj\Debug\net5.0\ch02_01.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\obj\Debug\net5.0\ch02_01.dll
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\obj\Debug\net5.0\ref\ch02_01.dll
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\obj\Debug\net5.0\ch02_01.pdb
+C:\Users\kimso\Desktop\workspace\homework\c#_9.0\ch2_1\obj\Debug\net5.0\ch02_01.genruntimeconfig.cache
