@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kimhs\\.nuget\\packages\\": {}
+    "C:\\Users\\Soo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch03_02\\ch03_02.csproj",
+      "projectUniqueName": "C:\\Users\\Soo\\Desktop\\workspace\\Csharp9.0\\ch03_02\\ch03_02.csproj",
       "projectName": "ch03_02",
-      "projectPath": "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch03_02\\ch03_02.csproj",
-      "packagesPath": "C:\\Users\\kimhs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch03_02\\obj\\",
+      "projectPath": "C:\\Users\\Soo\\Desktop\\workspace\\Csharp9.0\\ch03_02\\ch03_02.csproj",
+      "packagesPath": "C:\\Users\\Soo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Soo\\Desktop\\workspace\\Csharp9.0\\ch03_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kimhs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Soo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

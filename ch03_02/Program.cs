@@ -200,9 +200,51 @@ namespace ch03_02
 
             //int[] products = new int[] { 1, 2, 3, 4, 5 }; // 배열의 요소 개수를 미지정
 
-                
+            //            string text = "Hello World";
+            //            char ch1 = text[0];
+            //            char ch2 = text[1];
+
+            //            Console.WriteLine(ch1);
+            //            Console.WriteLine(ch2);
 
 
+            //            H
+            //e
+
+            //int[] students = new int[60];
+            //students[0] = 50;
+            //Console.WriteLine(students[0]); // 출력 결과 : 50 
+
+            //students = new int[120];
+            //Console.WriteLine(students[0]); // 출력 결과 :0
+
+            //int[,] arr2 = new int[10, 5]; // 2차원 배열, 요소에 대해 각각 4바이트씩 총 200바이트 메모리 점유
+            //short[,,] arr3 = new short[8, 3, 10]; // 3차원 배열, 요소에 대해 각각 2바이트씩 총 480바이트 메모리 점유
+
+            //int[,] arr2 = new int[2, 3]
+            //{
+            //    {1,2,3}, // 1차원 요소 수는 3개이고
+            //    {4,5,6 } // 2차원 요소 수는 2개인 배열을 초기화 
+            //};
+
+            //int[,,] arr3 = new int[2, 3, 4]
+            //{
+            //    {
+            //        {1,2,3,4 }, // 1차원의 요소 수는 4개이고 
+            //        {5,6,7,8 },
+            //        {9,10,11,12 } //2차원의 요소 수는 3개이고,
+            //    },
+            //{ 
+            //{ 13,14,15,16},
+            //{ 17,18,19,20},
+            //{ 21,22,23,24}, //3차원 요소 수는 2개인 배열을 초기화 
+            //}
+    //};
+
+            int 
+
+            }
+            
 
         }
     }
