@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\c#_9.0\\ch03_01\\ch03_01.csproj",
-      "projectName": "ch03_01",
-      "projectPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\c#_9.0\\ch03_01\\ch03_01.csproj",
+      "projectUniqueName": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\c#_9.0\\ch03_03\\ch03_03.csproj",
+      "projectName": "ch03_03",
+      "projectPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\c#_9.0\\ch03_03\\ch03_03.csproj",
       "packagesPath": "C:\\Users\\kimso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\c#_9.0\\ch03_01\\obj\\",
+      "outputPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\c#_9.0\\ch03_03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kimso\\AppData\\Roaming\\NuGet\\NuGet.Config",

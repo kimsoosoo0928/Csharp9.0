@@ -239,13 +239,275 @@ namespace ch03_02
             //{ 17,18,19,20},
             //{ 21,22,23,24}, //3차원 요소 수는 2개인 배열을 초기화 
             //}
-    //};
+            //};
 
-            int 
+            //    int value = 5;
+            //    if (value <= 255)
+            //    {
+            //        Console.WriteLine("byte 변환 가능");
+            //    }
+            //    else if (value <= 65535)
+            //    {
+            //        Console.WriteLine("ushort 변환 가능");
 
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("int 타입");
+            //    }
+
+            //    }
+
+            //byte 변환 가능
+
+            //int value = 5;
+            //string result;
+            //if (value % 2 == 0)
+            //{
+            //    result = "짝수";
+            //}
+            //else
+            //{
+            //    result = "홀수";
+            //}
+            //Console.WriteLine(result);
+
+            //홀수
+
+            //int value = 5;
+            //string result = (value % 2 == 0) ? "짝수" : "홀수";
+
+            //char ch = 'F';
+
+            //switch (ch)
+            //{
+            //    case 'M':
+            //        Console.WriteLine("남성");
+            //        break;
+
+            //    case 'F':
+            //        Console.WriteLine("여성");
+            //        break;
+
+            //    default:
+            //        Console.WriteLine("알 수 없음");
+            //        break;
+
+            //}
+
+            //여성
+
+            //    char ch = 'F';
+
+            //    if (ch=='M')
+            //    {
+            //        Console.WriteLine("남성");
+            //    }
+            //    else if (ch=='F')
+            //    { Console.WriteLine("여성"); 
+            //}
+            //    else
+            //    {
+            //        Console.WriteLine("알 수 없음");
+            //    }
+            //    여성
+
+
+            //string text = "C#";
+
+            //switch (text)
+            //{
+            //    case "C#":
+            //    case "VB.NET":
+            //        Console.WriteLine(".NET 호환 언어");
+            //    case "Java":
+            //        Console.WriteLine("JVM 언어");
+            //        break;
+
+            //    default:
+            //        Console.WriteLine("알 수 없음");
+            //        break;
+            //}
+
+            //string text = "C#";
+
+            //if (text == "C#" || text == "VB.NET")
+
+            //{
+            //    Console.WriteLine(".NET 호환 언어");
+            //}
+            //else if (text == "Java'")
+            //{
+            //    Console.WriteLine("JVM언어");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("알 수 없음");
+            //}
+
+            //string text = "C#";
+
+            //switch (text)
+            //{
+            //    case "C#":
+            //        Console.WriteLine(".NET 호환 언어");
+            //        break;
+            //    case "Java":
+            //        Console.WriteLine("JVM 언어");
+            //        break;
+            //}
+
+            //int n = 50;
+            //Console.WriteLine(n++); // n을 평가하고 난 다음 1만큼 증가
+
+            //n = 50;
+            //Console.WriteLine(++n); // n의 값을 1만큼 증가시키고 식을 평가
+
+            //int n = 50;
+            //int result;
+            //result = n++;
+
+            //n = 50;
+            //result = ++n;
+
+            //n = 50;
+            //result = n--;
+
+            //n = 50;
+            //result = --n;
+
+            //}
+
+            //            int n;
+
+            //            for (n = 1; n <= 9; n++)
+            //            {
+            //                Console.WriteLine(n);
+            //            }
+
+            ////            1
+            ////2
+            //3
+            //4
+            //5
+            //6
+            //7
+            //8
+            //9
+
+            //int n = 1;
+            //for (; n<=9; n++)
+            //{ Console.WriteLine(n); }
+
+            //int n = 1;
+            //for (; ; n++)
+            //{
+            //    if (n > 9) break;
+            //    Console.WriteLine(n);
+            //}
+
+            //int n = 1;
+            //for(;;)
+            //{
+            //    if (n > 9) break;
+            //    Console.WriteLine(n);
+            //    n++;
+            //}
+
+            //            for (int x = 2; x < 10; x++)
+            //                for (int y = 1; y<10; y++)
+            //                    Console.WriteLine(x + "*"+y+"="+(x*y));
+
+            //            2 * 1 = 2
+            //2 * 2 = 4
+            //2 * 3 = 6
+            //2 * 4 = 8
+            //2 * 5 = 10
+            //2 * 6 = 12
+            //2 * 7 = 14
+            //2 * 8 = 16
+            //2 * 9 = 18
+            //3 * 1 = 3
+            //3 * 2 = 6
+            //3 * 3 = 9
+            //3 * 4 = 12
+            //3 * 5 = 15
+            //3 * 6 = 18
+            //3 * 7 = 21
+            //3 * 8 = 24
+            //3 * 9 = 27
+            //4 * 1 = 4
+            //4 * 2 = 8
+            //4 * 3 = 12
+            //4 * 4 = 16
+            //4 * 5 = 20
+            //4 * 6 = 24
+            //4 * 7 = 28
+            //4 * 8 = 32
+            //4 * 9 = 36
+            //5 * 1 = 5
+            //5 * 2 = 10
+            //5 * 3 = 15
+            //5 * 4 = 20
+            //5 * 5 = 25
+            //5 * 6 = 30
+            //5 * 7 = 35
+            //5 * 8 = 40
+            //5 * 9 = 45
+            //6 * 1 = 6
+            //6 * 2 = 12
+            //6 * 3 = 18
+            //6 * 4 = 24
+            //6 * 5 = 30
+            //6 * 6 = 36
+            //6 * 7 = 42
+            //6 * 8 = 48
+            //6 * 9 = 54
+            //7 * 1 = 7
+            //7 * 2 = 14
+            //7 * 3 = 21
+            //7 * 4 = 28
+            //7 * 5 = 35
+            //7 * 6 = 42
+            //7 * 7 = 49
+            //7 * 8 = 56
+            //7 * 9 = 63
+            //8 * 1 = 8
+            //8 * 2 = 16
+            //8 * 3 = 24
+            //8 * 4 = 32
+            //8 * 5 = 40
+            //8 * 6 = 48
+            //8 * 7 = 56
+            //8 * 8 = 64
+            //8 * 9 = 72
+            //9 * 1 = 9
+            //9 * 2 = 18
+            //9 * 3 = 27
+            //9 * 4 = 36
+            //9 * 5 = 45
+            //9 * 6 = 54
+            //9 * 7 = 63
+            //9 * 8 = 72
+            //9 * 9 = 81
+
+            //for (int x = 2; x <10; x++)
+            //{
+            //    for (int y = 1; y<10; y++)
+            //    {
+            //        Console.WriteLine(x + "*"+y+"="+(x*y));
+            //    }
+
+//            int[] arr = new int[] { 1, 2, 3, 4, 5 };
+//            foreach(int elem in arr)
+//            { Console.WriteLine(elem); }
+//            1
+//2
+//3
+//4
+//5
             }
-            
 
         }
     }
-}
+
