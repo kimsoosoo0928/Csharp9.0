@@ -1,0 +1,15 @@
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\bin\Debug\net5.0\ch04_13.exe
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\bin\Debug\net5.0\ch04_13.deps.json
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\bin\Debug\net5.0\ch04_13.runtimeconfig.json
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\bin\Debug\net5.0\ch04_13.runtimeconfig.dev.json
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\bin\Debug\net5.0\ch04_13.dll
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\bin\Debug\net5.0\ref\ch04_13.dll
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\bin\Debug\net5.0\ch04_13.pdb
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\obj\Debug\net5.0\ch04_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\obj\Debug\net5.0\ch04_13.AssemblyInfoInputs.cache
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\obj\Debug\net5.0\ch04_13.AssemblyInfo.cs
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\obj\Debug\net5.0\ch04_13.csproj.CoreCompileInputs.cache
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\obj\Debug\net5.0\ch04_13.dll
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\obj\Debug\net5.0\ref\ch04_13.dll
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\obj\Debug\net5.0\ch04_13.pdb
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_13\obj\Debug\net5.0\ch04_13.genruntimeconfig.cache

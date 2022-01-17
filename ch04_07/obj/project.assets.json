@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kimso\\.nuget\\packages\\": {}
+    "C:\\Users\\kimhs\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\c#_9.0\\ch04_07\\ch04_07.csproj",
+      "projectUniqueName": "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch04_07\\ch04_07.csproj",
       "projectName": "ch04_07",
-      "projectPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\c#_9.0\\ch04_07\\ch04_07.csproj",
-      "packagesPath": "C:\\Users\\kimso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\c#_9.0\\ch04_07\\obj\\",
+      "projectPath": "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch04_07\\ch04_07.csproj",
+      "packagesPath": "C:\\Users\\kimhs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch04_07\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kimso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kimhs\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,0 +1,5 @@
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_07\obj\Debug\net5.0\ch04_07.csproj.AssemblyReference.cache
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_07\obj\Debug\net5.0\ch04_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_07\obj\Debug\net5.0\ch04_07.AssemblyInfoInputs.cache
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_07\obj\Debug\net5.0\ch04_07.AssemblyInfo.cs
+C:\Users\kimhs\Desktop\workspace\Csharp9.0\ch04_07\obj\Debug\net5.0\ch04_07.csproj.CoreCompileInputs.cache

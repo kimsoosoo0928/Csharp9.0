@@ -174,16 +174,86 @@
 //}
 
 
-using System;
+//using System;
 
-namespace ConsoleApp1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            //문자열 출력
-            Console.WriteLine("H_W");
-        }
-    }
-}
+//namespace ConsoleApp1
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            //문자열 출력
+//            Console.WriteLine("H_W");
+//        }
+//    }
+//}
+
+// 캡슐화 : 객체의 밖에서 알아야 할 필요가 없는 내부 멤버를 숨기는 일 
+
+//double pi = 3.14;
+
+//double GetAreaofCircle(double radius) // 원의 넓이를 반환하는 함수
+//{
+//    return radius * radius * pi;
+//}
+
+//void Print(double value)
+//{
+//    System.Console.WriteLine(GetAreaofCircle(value));
+//}
+
+//Print(10);
+
+//class Circle
+//{
+//    double pi = 3.14; // 클래스를 통한 캡슐화 
+    
+//    double GetArea(double radius) 
+//    {
+//        return radius * radius * pi;
+//    }
+
+//    public void Print(double value) // 호출가능
+//    {
+//        System.Console.WriteLine(GetArea(value));
+//    }
+//}
+
+//class Circle
+//{
+//    double pi = 3.14;
+
+//    public double GetPi()
+//    {
+//        return pi;
+//    }
+    
+//    public void SetPi(double value)
+//    {
+//        pi = value;
+//    }
+//    //
+//}
+
+//Circle o = new Circle();
+//o.SetPi(3.14159); // 쓰기
+//double piValue = o.GetPi();
+
+//class Circle
+//{
+//    double pi = 3.14;
+
+//    public void SetPi(double value)
+//    {
+//        if (value <= 3 || value >= 3.15)
+//        { System.Console.WriteLine("문제 발생!"); }
+//        pi = value;
+//    }
+
+//    // --- 생략 ---
+
+//    Circle o = new Circle();
+//    o.SetPi(3.14159);
+//    o.SetPi(3.5); // 출력 : 문제 발생 
+ 
+
