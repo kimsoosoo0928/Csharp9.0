@@ -1,33 +1,85 @@
-﻿using System;
-using System.Collections;
+﻿////class Computer
+////{
+////    public void TurnOn()
+////    {
+////        System.Console.WriteLine("Computer: TurnOn");
+////    }
+////}
 
-//int[] intArray = new int[] { 1, 2, 3, 4, 5 };
+////class Switch
+////{
+////    public void PowerOn(Computer machine)
+////    {
+////        machine.TurnOn();
+////    }
+////}
 
-//IEnumerator enumerator = intArray.GetEnumerator();
-//while(enumerator.MoveNext()) // 더이상 촬영할 수 없을 때 false
+////class Monitor
+////{
+////    public void TurnOn()
+////    {
+////        System.Console.WriteLine("Monitor: TurnOn");
+////    }
+
+
+
+////}
+
+//interface Ipower
 //{
-//    System.Console.WriteLine(enumerator.Current + ", ");
+//    void TurnOn();
 //}
 
+//class Monitor : IPower
+//{
+//    public void TurnOn()
+//    {
+//        System.Console.WriteLine("Monitor : TurnOn");
+//    }
+//}
 
+//class Switch
+//{
+//    public void PowerOn(Ipower machine)
+//    {
+//        machine.TurnOn();
+//    }
+//
 
-class Hardware { }
+//using System;
 
-class USB
-{
-    string name;
+//namespace ConsoleApp1
+//{
+//    struct Vector
+//    {
+//        public int X;
+//        public int Y;
 
-    public USB(string name) { this.name = name; }
-    public override string ToString()
-    {
-        return name;
-    }
-}
+//        public Vector(int x, int y) // 매개변수를 가진 생성자 정의 
+//        {
+//            this.X = x; // 구조체가 가진 모든 필드를 초기화
+//            this.Y = y;
+//        }
 
-class Notebook : Hardware, IEnumerable // 인터페이스 구현 
-{ USB[] usbList = new USB[] { new USB("USB1"), new USB("USB2") };
+//        public override string Tostring() // ToString 재정의
+//        {
+//            return "X : " + X + ", Y = " + Y;
+//        }
+//    }
 
-    public IEnumerator GetEnumerator() // IEnumerator를 구현한 열거자 인스턴스 반환
-    {
-        
-    }
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            Vector v1 = new Vector(); // new를 사용해 인스턴스 생성 가능
+//            Vector v2; // 
+
+//            Vector v3 = new Vector(5, 10);
+
+//            Console.WriteLine(v3);
+//        }
+//    }
+//        }
+
+//    }
+//}
