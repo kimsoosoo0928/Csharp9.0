@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch03_연습문제_01\\ch03_연습문제_01.csproj": {}
+    "C:\\Users\\kimso\\Desktop\\workspace\\homework\\Csharp9.0\\ch03_연습문제_01\\ch03_연습문제_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch03_연습문제_01\\ch03_연습문제_01.csproj": {
+    "C:\\Users\\kimso\\Desktop\\workspace\\homework\\Csharp9.0\\ch03_연습문제_01\\ch03_연습문제_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch03_연습문제_01\\ch03_연습문제_01.csproj",
+        "projectUniqueName": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\Csharp9.0\\ch03_연습문제_01\\ch03_연습문제_01.csproj",
         "projectName": "ch03_연습문제_01",
-        "projectPath": "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch03_연습문제_01\\ch03_연습문제_01.csproj",
-        "packagesPath": "C:\\Users\\kimhs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kimhs\\Desktop\\workspace\\Csharp9.0\\ch03_연습문제_01\\obj\\",
+        "projectPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\Csharp9.0\\ch03_연습문제_01\\ch03_연습문제_01.csproj",
+        "packagesPath": "C:\\Users\\kimso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\Csharp9.0\\ch03_연습문제_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kimhs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kimso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
