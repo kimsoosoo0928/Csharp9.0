@@ -259,7 +259,7 @@ public class Mathematics
     public Mathematics()
     {
         // static 메서드를 가리키는 델리게이트 배열 초기화
-        methods new CalcDelegate[] { Mathematics.Add, Mathematics.Subtract, Mathematics.Multiply, Mathematics.Divide };
+        methods = new CalcDelegate[] { Mathematics.Add, Mathematics.Subtract, Mathematics.Multiply, Mathematics.Divide };
 
     }
 

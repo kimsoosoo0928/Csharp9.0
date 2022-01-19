@@ -75,7 +75,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             CalcDelegate calc = Add;
-            calc -= Substract;
+            calc -= Subtract;
             calc -= Multiply;
             calc -= Divide;
 
@@ -85,7 +85,7 @@ namespace ConsoleApp1
             calc(10, 5); //Add, Subtract,Divide 메서드만 호출 
 
 
-            CalcDelegate calc = new CalcDelegate(Add);
+            CalcDelegate addcalc = new CalcDelegate(Add);
             CalcDelegate subtractCalc = new CalcDelegate(Subtract);
             CalcDelegate multuplyCalc = new CalcDelegate(Multiply);
             CalcDelegate divideCalc = new CalcDelegate(Divide);

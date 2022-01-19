@@ -1,0 +1,16 @@
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\bin\Debug\net5.0\08.exe
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\bin\Debug\net5.0\08.deps.json
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\bin\Debug\net5.0\08.runtimeconfig.json
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\bin\Debug\net5.0\08.runtimeconfig.dev.json
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\bin\Debug\net5.0\08.dll
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\bin\Debug\net5.0\ref\08.dll
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\bin\Debug\net5.0\08.pdb
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\obj\Debug\net5.0\08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\obj\Debug\net5.0\08.AssemblyInfoInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\obj\Debug\net5.0\08.AssemblyInfo.cs
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\obj\Debug\net5.0\08.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\obj\Debug\net5.0\08.dll
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\obj\Debug\net5.0\ref\08.dll
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\obj\Debug\net5.0\08.pdb
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\obj\Debug\net5.0\08.genruntimeconfig.cache
+C:\Users\kimso\Desktop\workspace\homework\Csharp9.0\08\obj\Debug\net5.0\08.csproj.AssemblyReference.cache

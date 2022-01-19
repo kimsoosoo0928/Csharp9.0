@@ -16,24 +16,24 @@ namespace ch04_22
         {
             int temp;
 
-            for (int i = 0; i < numbers.Length; ++)
+            for (int i = 0; i < numbers.Length; i++)
             {
                 int lowPos = i;
 
                 for (int j = i + 1; j <numbers.Length; j++)
                 {
                     temp = numbers[lowPos];
-                    numbers[lowPos] = number[i];
+                    numbers[lowPos] = numbers[i];
                     numbers[i] = temp;
                 }
             }
 
+        }
             public void Display() // numbers 요소를 화면에 출력 
             {
                 for (int i = 0; i<numbers.Length; i++)
                     Console.WriteLine(numbers[i] + ", ");
             }
-        }
 
        class Program
         {
