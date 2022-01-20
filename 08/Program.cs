@@ -17,7 +17,7 @@ namespace _08
 
             //Console.WriteLine("value1 == " +value1 + ", value2 == " +value2);
 
-            swap3value(ref value1, ref value2, ref value3);
+            //swap3value(ref value1, ref value2, ref value3);
 
             Console.WriteLine($"value1 : {value1}, value2 : {value2}, value3 : {value3}");
             
